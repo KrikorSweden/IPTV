@@ -1,0 +1,184 @@
+#EXTM3U
+#EXTINF:0,Se | Animal Planet Hd
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9691.ts
+#EXTINF:0,Se | Bomerang
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9734.ts
+#EXTINF:0,Se | C More Emotion
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9690.ts
+#EXTINF:0,Se | C More First
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9689.ts
+#EXTINF:0,Se | C More First Hd
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9733.ts
+#EXTINF:0,Se | C More Fotboll Hd
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9732.ts
+#EXTINF:0,Se | C More Fotboll Sd
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9688.ts
+#EXTINF:0,Se | C More Hits Hd
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9731.ts
+#EXTINF:0,Se | C More Hockey
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9687.ts
+#EXTINF:0,Se | C More Hockey Hd
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9730.ts
+#EXTINF:0,Se | C More Live
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9686.ts
+#EXTINF:0,Se | C More Live Hd
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9685.ts
+#EXTINF:0,Se | C More Series Hd
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9729.ts
+#EXTINF:0,Se | C More Sport
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9728.ts
+#EXTINF:0,Se | C More Sport Hd
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9684.ts
+#EXTINF:0,Se | C More Stars
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9683.ts
+#EXTINF:0,Se | C More Stars Hd
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9727.ts
+#EXTINF:0,Se | Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9726.ts
+#EXTINF:0,Se | Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9682.ts
+#EXTINF:0,Se | Disc. Channel
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9725.ts
+#EXTINF:0,Se | Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9681.ts
+#EXTINF:0,Se | Discovery World
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9724.ts
+#EXTINF:0,Se | Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9680.ts
+#EXTINF:0,Se | Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9723.ts
+#EXTINF:0,Se | Eurosport 1
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9722.ts
+#EXTINF:0,Se | Film Action
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9679.ts
+#EXTINF:0,Se | Film Premiere
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9678.ts
+#EXTINF:0,Se | Film Premiere 1
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9677.ts
+#EXTINF:0,Se | Fox
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9721.ts
+#EXTINF:0,Se | Kanal 9 Hd
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9676.ts
+#EXTINF:0,Se | Kunskapskanalen
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9718.ts
+#EXTINF:0,Se | Mtv
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9717.ts
+#EXTINF:0,Se | Nat Geo Wild
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9716.ts
+#EXTINF:0,Se | National Geographic
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9715.ts
+#EXTINF:0,Se | Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9714.ts
+#EXTINF:0,Se | Sport Premium
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9675.ts
+#EXTINF:0,Se | Travel Channel
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9674.ts
+#EXTINF:0,Se | Tv 10
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9713.ts
+#EXTINF:0,Se | Tv 12
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9712.ts
+#EXTINF:0,Se | Tv 5 Hd
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9720.ts
+#EXTINF:0,Se | Tv 6
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9711.ts
+#EXTINF:0,Se | Tv 9 Hd
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9719.ts
+#EXTINF:0,Se | Tv3 Hd
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9710.ts
+#EXTINF:0,Se | Tv3 Sport
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9709.ts
+#EXTINF:0,Se | Tv4 Film
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9708.ts
+#EXTINF:0,Se | Tv4 Guld
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9707.ts
+#EXTINF:0,Se | Tv4 Komedi
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9706.ts
+#EXTINF:0,Se | Viasat Explorer
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9705.ts
+#EXTINF:0,Se | Viasat Film Comedy
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9704.ts
+#EXTINF:0,Se | Viasat Film Family
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9703.ts
+#EXTINF:0,Se | Viasat Film Hits
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9702.ts
+#EXTINF:0,Se | Viasat Film Premiere
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9701.ts
+#EXTINF:0,Se | Viasat Film Premiere Sd
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9700.ts
+#EXTINF:0,Se | Viasat Fotboll
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9699.ts
+#EXTINF:0,Se | Viasat Golf
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9698.ts
+#EXTINF:0,Se | Viasat History
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9697.ts
+#EXTINF:0,Se | Viasat Motor
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9696.ts
+#EXTINF:0,Se | Viasat Nature
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9695.ts
+#EXTINF:0,Se | Viasat Series
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9694.ts
+#EXTINF:0,Se | Viasat Sport
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9693.ts
+#EXTINF:0,Se | Viasat Sport Premium
+#EXTVLCOPT:network-caching=1000
+http://formen1.com:8080/live/hdiptv152/1520/9692.ts
