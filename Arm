@@ -2,3 +2,19 @@
 http://193.233.173.1:999/udp/239.191.255.147:15283
 #EXTINF:-1,Arm 1
 http://178.49.102.170:81/udp/239.1.21.9:1234
+#EXTINF:-1,Yerkir Media
+http://212.34.244.28:8001/play/a008/index.m3u8
+#EXTINF:-1,Yerkir Media
+http://130.193.122.241:8000/play/a01z
+#EXTINF:-1,Armenia 2
+http://cdns.cli.tn/iptv/ch1371?code=170116362766526
+#EXTINF:-1,Armenia 2
+http://cdnv.cli.tn/iptv/ch1371?code=610116485444847
+#EXTINF:-1,Շողակաթ
+http://solaire.iptvbot.ru/iptv/9TED6MZD97XUQC/613/index.m3u8
+#EXTINF:-1,Շողակաթ
+http://297332fb.shukinuki.ru/iptv/MKHRHABR99BQ4P/613/index.m3u8
+#EXTINF:-1,KENTRON
+http://free-iptv.pro:8000/YL10012/Mu1829/28143
+#EXTINF:-1,Kentron
+http://spacetv.in/stream/PGB1X7U964/39.m3u8
