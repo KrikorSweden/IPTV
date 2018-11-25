@@ -1,13 +1,2 @@
-#EXTM3U
-#EXTINF:0,[ARM] ATV HD Armenia
-http://www.e900x.com:8000/live/kris/kris/842.ts
-#EXTINF:0,[ARM] Armenia H1 HD
-http://www.e900x.com:8000/live/kris/kris/2007.ts
-#EXTINF:0,[ARM] Armenia HD
-http://www.e900x.com:8000/live/kris/kris/2008.ts
-#EXTINF:0,[ARM] Armenia TV
-http://www.e900x.com:8000/live/kris/kris/841.ts
-#EXTINF:0,[ARM] Kentron
-http://www.e900x.com:8000/live/kris/kris/2108.ts
-#EXTINF:0,[ARM] Shant TV
-http://www.e900x.com:8000/live/kris/kris/2006.ts
+#EXTINF:-1,SHANT PREMIUM HD
+http://193.233.173.1:999/udp/239.191.255.147:15283
