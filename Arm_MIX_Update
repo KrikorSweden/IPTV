@@ -1,0 +1,172 @@
+#EXTM3U
+#EXTINF:-1,Armenian: AABC TV
+http://193.200.164.171:6969/live/lilian/lilian/5662.ts
+
+
+#EXTINF:-1,Armenian: AMGA TV
+http://193.200.164.171:6969/live/lilian/lilian/5661.ts
+
+#EXTINF:-1,Armenian: Kentron tv
+http://193.200.164.171:6969/live/lilian/lilian/5671.ts
+#EXTINF:0,Kentron
+http://212.34.244.60:8000/play/a007
+#EXTINF:0,Kentron
+http://77.95.189.24:8000/play/a00k
+#EXTINF:-1,AM: Kentron
+http://163.172.7.148:3456/live/govi/tDpNw2Noys/1735.ts
+#EXTINF:-1,AM: Kentron
+http://163.172.7.148:3456/live/rumet/Rp1RSQkJB0/1735.ts
+#EXTINF:-1,AM: 1TV Armenia
+http://163.172.7.148:3456/live/rumet/Rp1RSQkJB0/224.ts
+#EXTINF:-1,AM: Kentron
+http://163.172.7.148:3456/live/penakej/foI8RAXCI7/1735.ts
+
+#EXTINF:-1,Armenian: Yerkirmedia
+http://193.200.164.171:6969/live/lilian/lilian/5666.ts
+#EXTINF:8100,Yerkir Media
+http://212.34.244.60:8000/play/a008
+#EXTINF:0,Yerkir Media
+http://77.95.189.24:8000/play/a00h
+
+#EXTINF:25200,Shoghakat TV
+http://212.34.244.60:8000/play/a003
+#EXTINF:0,Shoghakat TV
+http://77.95.189.24:8000/play/a00e
+
+
+#EXTINF:0,Armenian Second TV Channel
+http://212.34.244.60:8000/play/a006
+#EXTINF:0,Armenian Second TV Channel
+http://77.95.189.24:8000/play/a00i
+
+
+
+#EXTINF:0,Shant TV
+http://212.34.244.60:8000/play/a005
+#EXTINF:0,Shant TV
+http://77.95.189.24:8000/play/a00b
+#EXTINF:-1,Armenian: ARTN/SHANT
+http://193.200.164.171:6969/live/lilian/lilian/5660.ts
+#EXTINF:-1,AM: SHANT TV
+http://163.172.7.148:3456/live/govi/tDpNw2Noys/222.ts
+#EXTINF:-1,AM: SHANT TV
+http://163.172.7.148:3456/live/rumet/Rp1RSQkJB0/222.ts
+#EXTINF:-1,AM: SHANT TV
+http://163.172.7.148:3456/live/penakej/foI8RAXCI7/222.ts
+
+#EXTINF:-1,AM: Luys
+http://163.172.7.148:3456/live/govi/tDpNw2Noys/14.ts
+#EXTINF:-1,AM: Luys
+http://163.172.7.148:3456/live/penakej/foI8RAXCI7/14.ts
+#EXTINF:-1,AM: Luys
+http://163.172.7.148:3456/live/rumet/Rp1RSQkJB0/14.ts
+
+#EXTINF:0,Lori TV
+http://212.34.244.60:8000/play/a00c
+
+
+#EXTINF:0,Armenia TV
+http://212.34.244.60:8000/play/a004
+#EXTINF:0,Armenian Public TV
+http://212.34.244.60:8000/play/a002
+#EXTINF:0,Armenia TV
+http://77.95.189.24:8000/play/a00a
+#EXTINF:0,Armenian Public TV
+http://77.95.189.24:8000/play/a009
+#EXTINF:-1,AM: 1TV Armenia
+http://163.172.7.148:3456/live/govi/tDpNw2Noys/224.ts
+#EXTINF:-1,AM: Armenian News
+http://163.172.7.148:3456/live/govi/tDpNw2Noys/225.ts
+#EXTINF:0,Armnews
+http://77.95.189.24:8000/play/a00d
+#EXTINF:-1,AM: H1
+http://163.172.7.148:3456/live/govi/tDpNw2Noys/293.ts
+#EXTINF:-1,AM: Armenian News
+http://163.172.7.148:3456/live/penakej/foI8RAXCI7/225.ts
+#EXTINF:-1,AM: ARTN TV
+http://163.172.7.148:3456/live/penakej/foI8RAXCI7/696.ts
+#EXTINF:-1,AM: 1TV Armenia
+http://163.172.7.148:3456/live/penakej/foI8RAXCI7/224.ts
+#EXTINF:-1,AM: H1
+http://163.172.7.148:3456/live/penakej/foI8RAXCI7/293.ts
+#EXTINF:-1,AM: H1
+http://163.172.7.148:3456/live/rumet/Rp1RSQkJB0/293.ts
+#EXTINF:-1,AM: Armenian News
+http://163.172.7.148:3456/live/rumet/Rp1RSQkJB0/225.ts
+
+#EXTINF:-1,AM: H2
+http://163.172.7.148:3456/live/rumet/Rp1RSQkJB0/223.ts
+#EXTINF:-1,AM: H2
+http://163.172.7.148:3456/live/penakej/foI8RAXCI7/223.ts
+#EXTINF:-1,AM: H2
+http://163.172.7.148:3456/live/govi/tDpNw2Noys/223.ts
+
+
+#EXTINF:0,Armenian Third TV Channel
+http://77.95.189.24:8000/play/a00l
+#EXTINF:-1,AM: H3TV
+http://163.172.7.148:3456/live/govi/tDpNw2Noys/681.ts
+#EXTINF:-1,AM: H3TV
+http://163.172.7.148:3456/live/penakej/foI8RAXCI7/681.ts
+#EXTINF:-1,AM: H3TV
+http://163.172.7.148:3456/live/rumet/Rp1RSQkJB0/681.ts
+
+#EXTINF:0,Ararat
+http://77.95.189.24:8000/play/a00m
+#EXTINF:-1,AM: ARARAT
+http://163.172.7.148:3456/live/govi/tDpNw2Noys/857.ts
+
+#EXTINF:-1,AM: ARTN TV
+http://163.172.7.148:3456/live/govi/tDpNw2Noys/696.ts
+#EXTINF:-1,AM: ARTN TV
+http://163.172.7.148:3456/live/rumet/Rp1RSQkJB0/696.ts
+
+
+#EXTINF:-1,AM: TBN TV
+http://163.172.7.148:3456/live/govi/tDpNw2Noys/291.ts
+#EXTINF:-1,Am: TOOT TV
+http://163.172.7.148:3456/live/govi/tDpNw2Noys/680.ts
+#EXTINF:-1,Am: TOOT TV
+http://163.172.7.148:3456/live/penakej/foI8RAXCI7/680.ts
+
+#EXTINF:-1,AM: USArmenia
+http://163.172.7.148:3456/live/govi/tDpNw2Noys/292.ts
+#EXTINF:-1,AM: USArmenia
+http://163.172.7.148:3456/live/penakej/foI8RAXCI7/292.ts
+#EXTINF:-1,AM: USArmenia
+http://163.172.7.148:3456/live/rumet/Rp1RSQkJB0/292.ts
+
+#EXTINF:-1,AM: ATV
+http://163.172.7.148:3456/live/govi/tDpNw2Noys/302.ts
+#EXTINF:-1,AM: ATV
+http://163.172.7.148:3456/live/penakej/foI8RAXCI7/302.ts
+#EXTINF:-1,AM: ATV
+http://163.172.7.148:3456/live/rumet/Rp1RSQkJB0/302.ts
+
+#EXTINF:-1,AM: AABC
+http://163.172.7.148:3456/live/penakej/foI8RAXCI7/694.ts
+#EXTINF:-1,AM: AABC
+http://163.172.7.148:3456/live/rumet/Rp1RSQkJB0/694.ts
+
+#EXTINF:-1,AM: ARARAT
+http://163.172.7.148:3456/live/penakej/foI8RAXCI7/857.ts
+#EXTINF:-1,AM: ARARAT
+http://163.172.7.148:3456/live/rumet/Rp1RSQkJB0/857.ts
+
+#EXTINF:-1,AM: TBN TV
+http://163.172.7.148:3456/live/penakej/foI8RAXCI7/291.ts
+
+
+#EXTINF:-1,AM: AMGA TV
+http://163.172.7.148:3456/live/rumet/Rp1RSQkJB0/695.ts
+#EXTINF:-1,AM: AMGA TV
+http://163.172.7.148:3456/live/penakej/foI8RAXCI7/695.ts
+
+
+
+
+
+
+
+
+
